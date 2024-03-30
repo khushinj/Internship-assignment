@@ -36,9 +36,9 @@ body {
 
 
 @media screen and (max-width:576px) and (min-width:200px) {
-    
+
     .card {
-        margin:auto
+        margin: auto
     }
 }
 
@@ -81,6 +81,12 @@ body {
     }
 }
 
+hr {
+    color: #E0E3FB;
+    width: 50%;
+    margin: auto;
+}
+
 @media screen and (max-width:768px) and (min-width:576px) {
     .card {
         width: 280px;
@@ -89,6 +95,10 @@ body {
 
     .heading {
         font-size: 80px;
+    }
+
+    .headd{
+        font-size: 16px;
     }
 }
 
