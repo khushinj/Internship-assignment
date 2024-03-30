@@ -17,10 +17,10 @@ body {
     color: transparent;
 }
 
-/* .card {
-    width: 293px;
-    height: 26rem;
-} */
+ .card {
+   border-radius: 19px;
+} 
+
 
 @media screen and (max-width:576px) and (min-width:430px) {
     .card {
@@ -74,6 +74,9 @@ body {
         height: 24rem;
     }
 }
+
+
+
 
 @media screen and (max-width:674px) and (min-width:576px) {
     .card {
